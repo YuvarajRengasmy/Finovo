@@ -28,3 +28,13 @@ Route::get('/blogdetails', function () {
 Route::get('/eventlist', function () {
     return view('eventlist');
 });
+Route::get('/uk_study', function () {
+    return view('study.uk');
+});
+
+Route::get('/usa_study', function () {
+    return view('study.usa');
+});
+Route::get('/canada_study', function () {
+    return view('study.canada');
+});

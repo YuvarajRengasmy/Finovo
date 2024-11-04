@@ -38,9 +38,9 @@
                         Destinations
                     </a>
                     <div class="dropdown-menu" aria-labelledby="destinationsDropdown">
-                        <a class="dropdown-item" href="destination1.html">UK</a>
-                        <a class="dropdown-item" href="destination2.html">USA</a>
-                        <a class="dropdown-item" href="destination3.html">Canada</a>
+                        <a class="dropdown-item" href="/uk_study">UK</a>
+                        <a class="dropdown-item" href="/usa_study">USA</a>
+                        <a class="dropdown-item" href="/canada_study">Canada</a>
                         <a class="dropdown-item" href="destination4.html">Australia</a>
                         <a class="dropdown-item" href="destination5.html">New Zealand</a>
                         <a class="dropdown-item" href="destination3.html">Ireland</a>
